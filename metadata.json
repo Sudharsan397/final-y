@@ -1,0 +1,5 @@
+{
+  "name": "Milano Coffee - Inventory Management",
+  "description": "A role-based inventory management application with strict user limits for Admin, Importers, and Exporters.",
+  "requestFramePermissions": []
+}
